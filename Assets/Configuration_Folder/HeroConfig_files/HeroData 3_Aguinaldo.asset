@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687da11d03b38cd488632ece4e675881, type: 3}
+  m_Name: HeroData 3_Aguinaldo
+  m_EditorClassIdentifier: 
+  heroName: Aguinaldo
+  role: 1
+  portrait: {fileID: 21300000, guid: 1fe4512168e6ad64191c29a816738da3, type: 3}
+  price: 200
+  items:
+  - {fileID: 1115509711511021472, guid: 0c6517cf5f9373f418e4393e73779351, type: 3}
+  - {fileID: 8648745660689495646, guid: a1b2512d5ed38e14f9e5169f937bd934, type: 3}
+  - {fileID: 7693481197821492960, guid: c3b208344ac8f9f4bbe66bf78a1e825b, type: 3}
+  Book: {fileID: 8380190210501663585, guid: 2f6451e793314c04e8965060bbdbe962, type: 3}
+  maxHealth: 15
+  damageReduction: 0.85
+  damageMultiplier: 0.75
+  healingEffectiveness: 0
+  battlePrefab: {fileID: 1335752831768767876, guid: e7f42554bf804cd47819cb91eacde4ba, type: 3}
+  specialSkill1: {fileID: 11400000, guid: 3eb980aabf5b32045b5803fdad1807cf, type: 2}
+  specialSkill2: {fileID: 11400000, guid: b2f908e9c951fed499e73239e85e996c, type: 2}
+  attackConfig:
+    characterName: 
+    attackPosition: 0
+    attackRange: 0
+    targetTag: 
+  skill1Config: {fileID: 11400000, guid: 3eb980aabf5b32045b5803fdad1807cf, type: 2}
+  skill2Config: {fileID: 11400000, guid: b2f908e9c951fed499e73239e85e996c, type: 2}
+  SkillButtonPrefab1: {fileID: 4383023456946189880, guid: 2957e83bad0e9174ca7816405d12b269, type: 3}
+  SkillButtonPrefab2: {fileID: 7405643699031929116, guid: 2f37defa7b6c94148831e1fde5db383c, type: 3}
+  speed: 5
+  heroStoryText: "Emilio Aguinaldo (1869\u20131964)\r\n\"The First President and
+    Revolutionary Statesman\"\r\n\r\nOverview:\r\nEmilio Aguinaldo was the military
+    and political leader who declared Philippine independence from Spain in 1898
+    and later became the first president of the First Philippine Republic. He also
+    led Filipino resistance during the Philippine-American War.\r\n\r\n\U0001F466
+    Early Life and Education\r\nBorn on March 22, 1869, in Kawit, Cavite, Aguinaldo
+    was the seventh of eight children of a middle-class mestizo family. He studied
+    at Colegio de San Juan de Letran but left school early to manage the family estate.\r\n\r\n\u2694\uFE0F
+    Role in the Katipunan and Revolution\r\nIn 1895, Aguinaldo joined the Katipunan
+    and quickly rose through its ranks. He led successful campaigns in Cavite and
+    became known as the \u201CBoy General\u201D for his youthful charisma and military
+    skill.\r\n\r\n\U0001F91D Pact of Biak-na-Bat\xF3 and Exile\r\nIn 1897, he signed
+    the Pact of Biak-na-Bat\xF3, agreeing to a ceasefire and exile in Hong Kong in
+    exchange for \u20B1800,000. He used the funds to buy weapons and organize another
+    revolution.\r\n\r\n\U0001F1F5\U0001F1ED Independence and First Republic\r\nOn
+    June 12, 1898, Aguinaldo declared Philippine independence in Kawit. In January
+    1899, he was inaugurated as president of the First Philippine Republic under
+    the Malolos Constitution the first democratic republic in Asia.\r\n\r\n\U0001FA96
+    Philippine-American War\r\nWar broke out in February 1899 due to American refusal
+    to recognize Filipino independence. Aguinaldo led the resistance until his capture
+    in Palanan, Isabela in 1901. He swore allegiance to the U.S. afterward.\r\n\r\n\U0001F3DB\uFE0F
+    Post-War Life\r\nHe retired from politics but later ran unsuccessfully for president
+    in 1935. During WWII, he was accused of collaborating with the Japanese but was
+    later pardoned. He lived to see Philippine independence in 1946 and died in 1964
+    at the age of 94.\r\n\r\n\U0001F4CD Legacy\r\nAguinaldo is buried at the Aguinaldo
+    Shrine in Kawit. Despite controversies, he is remembered as a pioneering leader
+    of the Philippine Republic.\r\n"
+  heroStoryPrefab: {fileID: 4956287201925080713, guid: f57791bc6692a19498159e8257c49cfa, type: 3}
+  purchasedItems: []
+  equippedItems: []

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687da11d03b38cd488632ece4e675881, type: 3}
+  m_Name: HeroData 1_luna
+  m_EditorClassIdentifier: 
+  heroName: Luna
+  role: 1
+  portrait: {fileID: 21300000, guid: 36faa1fdd03cb99468c78fd92e33b976, type: 3}
+  price: 120
+  items:
+  - {fileID: 9007625237819712478, guid: c78d3cfccdf9ab7468674e25065dd8ba, type: 3}
+  - {fileID: 2145404064518416019, guid: 2acee1303b15dd84daed58a559067f84, type: 3}
+  - {fileID: 7574289893817679183, guid: cc35dcf2517ad9f478438a0e8e8e4e31, type: 3}
+  Book: {fileID: 5818012106220983576, guid: 473b60bcb4d3bab408a5fb9d77ff824f, type: 3}
+  maxHealth: 50
+  damageReduction: 0.57
+  damageMultiplier: 0.7
+  healingEffectiveness: 0.31
+  battlePrefab: {fileID: 3933240939706982591, guid: c0f7736ef8b2ec349aeaf139f7ae753f, type: 3}
+  specialSkill1: {fileID: 11400000, guid: 093bb91edce51144b925f526f74216a0, type: 2}
+  specialSkill2: {fileID: 11400000, guid: 52a73a5999f8fcf4aa921d7d9d451744, type: 2}
+  attackConfig:
+    characterName: 
+    attackPosition: 1
+    attackRange: 1
+    targetTag: enemy
+  skill1Config: {fileID: 11400000, guid: 093bb91edce51144b925f526f74216a0, type: 2}
+  skill2Config: {fileID: 11400000, guid: 52a73a5999f8fcf4aa921d7d9d451744, type: 2}
+  SkillButtonPrefab1: {fileID: 7229826804312893697, guid: 582e33c817ccc9f4dbe9d96cb19830b9, type: 3}
+  SkillButtonPrefab2: {fileID: 6410756188583470778, guid: b74e3d6c24a06bc40aa3b86d95e80e7b, type: 3}
+  speed: 10
+  heroStoryText: "Antonio Luna (1866\u20131899)\r\n\"The Fiery General: Brilliance,
+    Reform, and Betrayal\"\r\n\r\nOverview:\r\nAntonio Luna was a multifaceted Filipino
+    hero scientist, journalist, and one of the sharpest military tacticians during
+    the Philippine-American War. Best known for his passion, discipline, and strategic
+    brilliance, Luna envisioned a united and professional Filipino army but was tragically
+    betrayed by his own compatriots.\r\n\r\n\U0001F9EC Early Life and Education\r\nBorn
+    in Binondo, Manila, on October 29, 1866, Antonio was the youngest of seven children
+    of Joaqu\xEDn Luna and Laureana Novicio. His elder brother, Juan Luna, was the
+    celebrated painter of the Spoliarium. Antonio showed academic excellence early
+    on. He earned a Bachelor of Arts from Ateneo Municipal and later studied chemistry,
+    music, and literature at the University of Santo Tomas.\r\nLuna continued his
+    studies in Spain at the Universidad de Barcelona, where he earned a licentiate
+    in pharmacy, and completed his doctorate at the Universidad Central de Madrid.
+    He studied bacteriology under Louis Pasteur at the Pasteur Institute in Paris,
+    making him one of the earliest Filipino scientists trained in microbiology.\r\n\r\n\U0001F9EA
+    Scientific and Literary Contributions\r\nLuna wrote scientific papers on malaria
+    and tropical diseases and was also an accomplished journalist. Using the pen
+    name \u201CTaga-Ilog,\u201D he contributed essays to La Solidaridad, where he
+    fiercely advocated for Filipino representation in the Spanish Cortes, freedom
+    of the press, and secularization of friar-held parishes. His dual identity as
+    a man of science and of letters embodied the spirit of the Filipino ilustrado.\r\n\r\n\u2694\uFE0F
+    The Military Reformer\r\nWhen war against the Americans broke out in 1899, Luna
+    was appointed Director of War and later General by President Emilio Aguinaldo.
+    He restructured the military, introduced modern field tactics, and emphasized
+    discipline. Soldiers under his command trained using European military doctrines.\r\n\r\nHe
+    formed the Luna Sharpshooters, an elite sniper and guerrilla unit, and established
+    the Academia Militar in Malolos\u2014the Philippines' first formal military school.
+    Luna\u2019s leadership led to victories in battles such as Calumpit, Santo Tomas,
+    and Caloocan.\r\nHe also devised the Luna Defense Line, a string of fortifications
+    from Pangasinan to Tayabas, aiming to slow down the American advance. However,
+    his efforts were hampered by rival factions and lack of unity among Filipino
+    officers.\r\n\r\n\U0001F52A Assassination in Cabanatuan\r\nOn June 5, 1899, Luna
+    was summoned by Aguinaldo to Cabanatuan for a council of war. Upon arrival, he
+    was ambushed and stabbed to death by members of the Kawit Battalion\u2014former
+    bodyguards of Aguinaldo. Luna\u2019s loyal aide, Col. Francisco Rom\xE1n, was
+    also killed. No one was punished for the murder, and Aguinaldo\u2019s administration
+    was widely blamed for orchestrating it.\r\n\r\n\U0001F3DB\uFE0F Legacy and National
+    Memory\r\nLuna's assassination marked a turning point in the Philippine-American
+    War, weakening the revolutionary army. His life inspired films like Heneral Luna
+    (2015), which reignited public interest in his role in history. He is remembered
+    as a brilliant tactician, an uncompromising nationalist, and a tragic victim
+    of political intrigue.\r\n"
+  heroStoryPrefab: {fileID: 7206521356480463640, guid: ec0de048c8d9f484986eb62265dda325, type: 3}
+  purchasedItems: []
+  equippedItems: []

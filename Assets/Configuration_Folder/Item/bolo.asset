@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd6242624cea23f4bb24f2aaefa6fce5, type: 3}
+  m_Name: bolo
+  m_EditorClassIdentifier: 
+  itemName: Bolo
+  description: The bolo was a Filipino farming blade used to clear fields or cut
+    wood. Since guns were scarce and expensive, early revolutionaries turned to the
+    bolo as a practical weapon for guerrilla warfare. It was easy to hide, easy to
+    replace, and culturally familiar.

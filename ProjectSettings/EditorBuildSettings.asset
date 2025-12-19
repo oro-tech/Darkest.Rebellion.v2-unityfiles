@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lobby_Scene.unity
+    guid: 40fb997ad683c8c48b7b770863338d1d
+  - enabled: 1
+    path: Assets/Scenes/HeroList.unity
+    guid: 532448970b1afd949b355d94f2b0dfb1
+  - enabled: 1
+    path: Assets/Scenes/CampaignMap_Scene.unity
+    guid: 0ccae403cc40f174e924124a0216d4ac
+  - enabled: 1
+    path: Assets/Scenes/TeamSelectionScene.unity
+    guid: 361466d81915feb43a2dca40b3fc197b
+  - enabled: 1
+    path: Assets/Scenes/BattleField_Scene.unity
+    guid: 752053b24fecff542a293f221f5de1e3
+  - enabled: 1
+    path: Assets/Scenes/TeamSelection2Scene.unity
+    guid: 9e9e79e932abb8d438490fc8ad8eaea2
+  - enabled: 1
+    path: Assets/Scenes/BattleField2_Scene.unity
+    guid: decd87eb7aca4c040891a03bde43f117
+  - enabled: 1
+    path: Assets/Scenes/ShopScene.unity
+    guid: 55053c7a9d69c764ca683b41fb92b4af
+  - enabled: 1
+    path: Assets/Scenes/QuizGame.unity
+    guid: d6397f4223f0c074382843622835f9bd
+  - enabled: 1
+    path: Assets/Scenes/instruction.unity
+    guid: 406cae478cd9b9b43ab9b4151b44f722
+  - enabled: 1
+    path: Assets/Scenes/HistoryPanel.unity
+    guid: 45a99746402e76249bf6c94dd6bbc13a
+  - enabled: 1
+    path: Assets/Scenes/MapHistory.unity
+    guid: b215d69c7760bc642a31bcbfe7894808
+  m_configObjects: {}

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3e68271565163bf4bbdcb49a27582590
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DwarvenAxeBBW00-Regular
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cebbff9703705e54d8093dc7f8b9996d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

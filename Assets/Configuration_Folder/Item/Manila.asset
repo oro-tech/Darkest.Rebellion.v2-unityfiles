@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd6242624cea23f4bb24f2aaefa6fce5, type: 3}
+  m_Name: Manila
+  m_EditorClassIdentifier: 
+  itemName: Manila
+  description: " Planned First Manila Offensive (Aug 29, 1896)  Bonifacio\u2019s
+    coordinated uprisings mostly failed to breach Spanish defenses.\r\n Opening of
+    the Philippine\u2013American War (Feb 4, 1899) \u2013 Skirmish in Sta. Mesa escalated
+    into full-scale battles for Manila.\r\n"

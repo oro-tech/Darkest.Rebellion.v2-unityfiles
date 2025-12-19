@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd6242624cea23f4bb24f2aaefa6fce5, type: 3}
+  m_Name: Mactan
+  m_EditorClassIdentifier: 
+  itemName: Mactan
+  description: "An island off Cebu where Spaniards under Magellan tried to subdue
+    local rulers in 1521. It became the site of the first recorded Filipino resistance
+    against European colonization\n\n Battle of Mactan (April 27, 1521) \u2013 Lapu-Lapu\u2019s
+    warriors defeated Ferdinand Magellan\u2019s landing force, marking the first
+    native victory over European invaders.\n\n"

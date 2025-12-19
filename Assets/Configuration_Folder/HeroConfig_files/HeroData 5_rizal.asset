@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687da11d03b38cd488632ece4e675881, type: 3}
+  m_Name: HeroData 5_rizal
+  m_EditorClassIdentifier: 
+  heroName: Rizal
+  role: 0
+  portrait: {fileID: 21300000, guid: bd9d7163d36da014297378ec9fdb8176, type: 3}
+  price: 500
+  items:
+  - {fileID: 8130428401482278172, guid: b7ede0a9c58804d43b6e2306faa71ea7, type: 3}
+  - {fileID: 137226832525821032, guid: dda1c8bb4e6fe864896bc94223ab1538, type: 3}
+  - {fileID: 8753527973777425798, guid: 395fc6f27c2686246a3637fe3c1f7058, type: 3}
+  Book: {fileID: 2654558988891856733, guid: 0635e0f668aa80a499fe27178dcf5a5b, type: 3}
+  maxHealth: 50
+  damageReduction: 0.95
+  damageMultiplier: 0.5
+  healingEffectiveness: 0
+  battlePrefab: {fileID: 5921409361084577873, guid: 24311044eac5ba24aae5b34350d8b6f5, type: 3}
+  specialSkill1: {fileID: 11400000, guid: 75b5573ccb313fa4bb3a36cab27f2a13, type: 2}
+  specialSkill2: {fileID: 11400000, guid: c1812854f0597e44e88a8d94e595f598, type: 2}
+  attackConfig:
+    characterName: 
+    attackPosition: 0
+    attackRange: 0
+    targetTag: 
+  skill1Config: {fileID: 11400000, guid: 75b5573ccb313fa4bb3a36cab27f2a13, type: 2}
+  skill2Config: {fileID: 11400000, guid: c1812854f0597e44e88a8d94e595f598, type: 2}
+  SkillButtonPrefab1: {fileID: 5233414474268084285, guid: bd3145fad98298b4c812fa651e3d2d9c, type: 3}
+  SkillButtonPrefab2: {fileID: 513016409891385728, guid: a199aaa4b2f90294caac128d63572108, type: 3}
+  speed: 10
+  heroStoryText: "Jos\xE9 Rizal (1861\u20131896)\r\n\"The Pen That Awoke a Nation\"\r\n\r\nOverview:\r\nDr.
+    Jos\xE9 Rizal was the Philippines\u2019 foremost reformist, polymath, and martyr.
+    A man of extraordinary intellect and compassion, he championed peaceful reform
+    over revolution, yet his execution galvanized a national uprising. His writings
+    laid the ideological foundation of the Philippine Revolution.\r\n\r\n\U0001F476
+    Early Life and Family\r\nBorn on June 19, 1861, in Calamba, Laguna, Rizal was
+    the seventh of eleven children of Francisco Mercado and Teodora Alonso Realonda,
+    both of mixed Filipino, Chinese, and Spanish descent. He learned to read and
+    write at age three and was already composing poetry by the age of eight.\r\n\r\n\U0001F393
+    Education and Scholarship\r\nRizal studied at the Ateneo Municipal de Manila,
+    where he earned a Bachelor of Arts degree with highest honors. He enrolled in
+    medicine and philosophy at the University of Santo Tomas but later moved to Spain
+    to study at the Universidad Central de Madrid. He earned a licentiate in medicine
+    and philosophy and pursued ophthalmology in Paris and Heidelberg, specializing
+    to cure his mother\u2019s blindness. He was fluent in over 22 languages and was
+    a poet, sculptor, teacher, economist, ethnologist, and sociologist.\r\n\r\n\U0001F4D6
+    Literary Revolution\r\nIn 1887, Rizal published Noli Me Tangere, a novel that
+    exposed the abuses of the Spanish clergy and colonial government. In 1891, he
+    followed with El Filibusterismo, a darker, more radical sequel. These novels
+    ignited Filipino nationalism and are considered cornerstones of Philippine literature
+    and revolutionary thought.\r\nHe also published essays in La Solidaridad under
+    aliases such as \u201CLaong Laan\u201D and \u201CDimasalang,\u201D calling for
+    representation, equal rights, and secularization of churches. Rizal also founded
+    La Liga Filipina, a peaceful civic organization, in 1892.\r\n\r\n\r\n\r\n\U0001F6D1
+    Arrest and Exile in Dapitan\r\nAfter La Liga Filipina was branded subversive,
+    Rizal was arrested and exiled to Dapitan, Zamboanga del Norte (1892\u20131896).
+    There, he built a school, a hospital, and improved the town\u2019s water system.
+    He also engaged in scientific studies, archaeology, and community development.\r\n\r\n\u2696\uFE0F
+    Trial and Execution\r\nRizal was later arrested and accused of inciting the 1896
+    revolution despite having no active role in the Katipunan uprising. He was tried
+    in a military court and sentenced to death. On December 30, 1896, at Bagumbayan
+    (now Rizal Park), he was executed by a Spanish firing squad. His final poem,
+    Mi \xDAltimo Adi\xF3s, was smuggled out and became a national treasure.\r\n\r\n\U0001F31F
+    Legacy\r\nRizal's death ignited the revolution he hoped to avoid. His legacy
+    endures in Philippine law, education, and culture. December 30 is Rizal Day,
+    a national holiday. His monument in Luneta remains the most visited in the country.
+    His life demonstrates that even without a sword, a nation can be moved to act.\r\n"
+  heroStoryPrefab: {fileID: 4156192480410190827, guid: 994e7ae2171e70446bc30057e457ecbc, type: 3}
+  purchasedItems: []
+  equippedItems: []

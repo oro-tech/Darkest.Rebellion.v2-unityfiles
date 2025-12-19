@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1e4831ce2b95d8459ac827da1c0e1e3, type: 3}
+  m_Name: Invader3 Skill1
+  m_EditorClassIdentifier: 
+  skillName: Skill1
+  icon: {fileID: 0}
+  description: 
+  baseValue: 9
+  isDamageType: 1
+  isHealingSkill: 1
+  isSupportSkill: 0
+  targetingStrategy: {fileID: 0}
+  animationTrigger: 
+  cutsceneName: 
+  useCutscene: 0
+  cooldownTime: 5
+  manaCost: 3
+  damage: 5

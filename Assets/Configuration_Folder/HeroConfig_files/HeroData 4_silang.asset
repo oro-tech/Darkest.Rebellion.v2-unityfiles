@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687da11d03b38cd488632ece4e675881, type: 3}
+  m_Name: HeroData 4_silang
+  m_EditorClassIdentifier: 
+  heroName: Silang
+  role: 0
+  portrait: {fileID: 21300000, guid: e3bd60ecfe80a16429670136fe475e1c, type: 3}
+  price: 200
+  items:
+  - {fileID: 1457603660072239400, guid: 7d57fe586ba2c824a85a58511feac0bc, type: 3}
+  - {fileID: 7696719045185409221, guid: b97d8301aabbfaa4f9290e66f7b494ce, type: 3}
+  - {fileID: 299541935353215844, guid: 98dea59395cdd5445a3bbb88aaf4459e, type: 3}
+  Book: {fileID: 7576421681584830634, guid: dfdba08a1a19a054db43d1e7fa4a363d, type: 3}
+  maxHealth: 15
+  damageReduction: 0.65
+  damageMultiplier: 0.88
+  healingEffectiveness: 0
+  battlePrefab: {fileID: 6286926601880325421, guid: 5645bd0581136784eb7fbca76e7abef8, type: 3}
+  specialSkill1: {fileID: 11400000, guid: 32cbe4c9c9e3f734cbb6fc0f04fa92ff, type: 2}
+  specialSkill2: {fileID: 11400000, guid: 0c26fb79600dba94f9ff7dcf45f6d0f8, type: 2}
+  attackConfig:
+    characterName: 
+    attackPosition: 1
+    attackRange: 0
+    targetTag: 
+  skill1Config: {fileID: 11400000, guid: 32cbe4c9c9e3f734cbb6fc0f04fa92ff, type: 2}
+  skill2Config: {fileID: 11400000, guid: 0c26fb79600dba94f9ff7dcf45f6d0f8, type: 2}
+  SkillButtonPrefab1: {fileID: 194693904666858543, guid: cc889c0b8be65884db1c184edc787f52, type: 3}
+  SkillButtonPrefab2: {fileID: 8488146363967383812, guid: 62dc41c3b1d5b694aa456436eace8c03, type: 3}
+  speed: 10
+  heroStoryText: "Gabriela Silang (1731\u20131763)\r\n\"The Warrior Widow of the
+    Ilocos\"\r\n\r\nOverview:\r\nGabriela Silang was the first Filipina to lead a
+    rebellion against colonial Spain. After the death of her husband Diego Silang,
+    she assumed command of the resistance, proving herself as a formidable military
+    leader in a male-dominated society and era.\r\n\r\n\U0001F467 Early Life and
+    Background\r\nBorn Maria Josefa Gabriela Cari\xF1o Silang in Sarrat, Ilocos Norte,
+    in 1731, she was of mixed Ilocano and Spanish ancestry. Orphaned early, she was
+    adopted by a priest and received a basic education\u2014an unusual privilege
+    for women of her time.\r\n\r\n\U0001F48D Marriage to Diego Silang\r\nGabriela
+    married Diego Silang in 1757. Diego was a revolutionary leader who opposed the
+    abuses of the Spanish clergy and collaborated briefly with the British during
+    their occupation of Manila (1762\u20131764). The couple became symbols of the
+    Ilocano resistance.\r\n\r\n\u2694\uFE0F Rise as a Military Leader\r\nOn May 28,
+    1763, Diego was assassinated by his own allies, bribed by Spanish authorities.
+    Rather than surrender, Gabriela took up leadership. She rallied Diego\u2019s
+    troops and retreated into the Cordilleras. For four months, she led raids and
+    built alliances with indigenous peoples like the Tingguian.\r\nShe commanded
+    up to 2,000 fighters in what became one of the most significant revolts in Northern
+    Luzon.\r\n\r\n\U0001F480 Capture and Execution\r\nGabriela was betrayed and captured
+    in Abra. On September 20, 1763, she and her followers were executed by hanging
+    in Vigan. She met death with dignity, becoming a martyr for both national and
+    women\u2019s liberation.\r\n\r\n\r\n\U0001F33A Legacy\r\nGabriela is commemorated
+    in monuments and through the women\u2019s rights organization GABRIELA, which
+    fights for social justice and gender equality. Her story is taught in schools
+    as a symbol of female empowerment and patriotism.\r\n"
+  heroStoryPrefab: {fileID: 6758256036207934163, guid: 54ddf478de8fa4a41b1270442a006194, type: 3}
+  purchasedItems: []
+  equippedItems: []

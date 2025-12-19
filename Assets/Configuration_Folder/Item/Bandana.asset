@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd6242624cea23f4bb24f2aaefa6fce5, type: 3}
+  m_Name: Bandana
+  m_EditorClassIdentifier: 
+  itemName: Bandana
+  description: "Andres Bonifacio, known as the \u201CFather of the Philippine Revolution,\u201D
+    often wore a red bandana tied around his head. The color red symbolized courage,
+    sacrifice, and readiness for battle. While many artistic depictions show him
+    wearing a barong Tagalog, eyewitnesses and Katipunan memoirs suggest he commonly
+    dressed as a working-class Filipino\u2014camisa de chino, rolled-up sleeves,
+    and a red bandana, which became a symbol of Katipunan defiance."

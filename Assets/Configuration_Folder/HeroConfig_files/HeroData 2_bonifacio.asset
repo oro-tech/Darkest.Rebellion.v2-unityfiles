@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687da11d03b38cd488632ece4e675881, type: 3}
+  m_Name: HeroData 2_bonifacio
+  m_EditorClassIdentifier: 
+  heroName: Bonifacio
+  role: 1
+  portrait: {fileID: 21300000, guid: 786a3eed8ff63544c9556c0f481d0d53, type: 3}
+  price: 123
+  items:
+  - {fileID: 3533302714743654284, guid: 24db0bc0f1c881745a37c418fa227bc1, type: 3}
+  - {fileID: 6643092547796467165, guid: ca96d1acfaf2c1044a75da55adf8365e, type: 3}
+  - {fileID: 1659588902950557406, guid: 68acad5b54c5e0a4a99b98d0bc5689e4, type: 3}
+  Book: {fileID: 6209761580548898961, guid: 31e0cc2891e42f244bf9fc72dc40f948, type: 3}
+  maxHealth: 15
+  damageReduction: 0.5
+  damageMultiplier: 0.2
+  healingEffectiveness: 0
+  battlePrefab: {fileID: 522039898979138432, guid: 511a4f1f7a426c34c952d492fb47939a, type: 3}
+  specialSkill1: {fileID: 11400000, guid: f4335675bc31e844bad1062b48f6210e, type: 2}
+  specialSkill2: {fileID: 11400000, guid: 80563dbf8afed7a48b5cd5c1a5a819b0, type: 2}
+  attackConfig:
+    characterName: 
+    attackPosition: 1
+    attackRange: 1
+    targetTag: enemy
+  skill1Config: {fileID: 11400000, guid: f4335675bc31e844bad1062b48f6210e, type: 2}
+  skill2Config: {fileID: 11400000, guid: 80563dbf8afed7a48b5cd5c1a5a819b0, type: 2}
+  SkillButtonPrefab1: {fileID: 6436547640278522840, guid: 677096ed6f85b6343883ea31394d21ca, type: 3}
+  SkillButtonPrefab2: {fileID: 4633484547003911114, guid: f886541737ae7c841bbc22e0dd9e4b1a, type: 3}
+  speed: 10
+  heroStoryText: "Andr\xE9s Bonifacio (1863\u20131897)\r\n\"Father of the Philippine
+    Revolution\"\r\n\r\nOverview:\r\nAndr\xE9s Bonifacio founded the Katipunan and
+    was the first to call for full independence from Spain through armed revolution.
+    Known as the \u201CSupremo,\u201D he rallied the working class and led the first
+    major revolutionary acts.\r\n\r\n\U0001F466 Humble Origins\r\nBorn on November
+    30, 1863, in Tondo, Bonifacio was the eldest of six children. Orphaned young,
+    he supported his siblings by selling paper fans and canes. Though he had little
+    formal schooling, he educated himself through books on politics, history, and
+    law.\r\n\n\uFFFD Katipunan and the Revolution\r\nIn 1892, Bonifacio founded the
+    Kataas-taasan, Kagalang-galangang Katipunan ng mga Anak ng Bayan (KKK), which
+    grew into a mass movement. By 1896, it had over 100,000 members. Bonifacio led
+    the Cry of Balintawak, tearing his cedula as a symbol of revolt.\r\n\r\n\u2694\uFE0F
+    Revolutionary Campaigns and Power Struggle\r\nBonifacio led early uprisings in
+    Manila and surrounding provinces. Internal conflicts with Aguinaldo\u2019s faction
+    culminated in the Tejeros Convention, where Bonifacio lost leadership. He disputed
+    the results, declaring the election void.\r\n\r\n\U0001F6AB Arrest and Execution\r\nIn
+    1897, Bonifacio was arrested, tried for treason by Aguinaldo\u2019s camp, and
+    executed in the mountains of Maragondon, Cavite on May 10\u2014an act still debated
+    today.\r\n\r\n\U0001F525 Legacy\r\nBonifacio remains a revered figure and a symbol
+    of the Filipino masses. His birthdate, November 30, is celebrated as Bonifacio
+    Day. His bravery underscores that independence is often won by the courage of
+    ordinary people.\r\n"
+  heroStoryPrefab: {fileID: 4529806378372597523, guid: 6222926a93a7d2946a206f745e7d38b2, type: 3}
+  purchasedItems: []
+  equippedItems: []

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd6242624cea23f4bb24f2aaefa6fce5, type: 3}
+  m_Name: SALAKOT
+  m_EditorClassIdentifier: 
+  itemName: SALAKOT
+  description: "The salakot has been used in the Philippines long before Spanish
+    colonization. Originally worn by farmers, hunters, and warriors, it became a
+    cultural symbol of Filipino identity. During the Spanish era, the salakot evolved\u2014some
+    versions were decorated with shells, metal studs, or silver trim to signify rank
+    or authority."

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687da11d03b38cd488632ece4e675881, type: 3}
+  m_Name: HeroData 0_lapu
+  m_EditorClassIdentifier: 
+  heroName: Lapu-Lapu
+  role: 1
+  portrait: {fileID: 21300000, guid: f38676fad7d276c4f8e319451f22e9d2, type: 3}
+  price: 100
+  items:
+  - {fileID: 1114385258964913790, guid: 3c9447189eb7b0a41b52e0996363c885, type: 3}
+  - {fileID: 597160912413743969, guid: 47d81e8300432774c8f094f02c071ecc, type: 3}
+  - {fileID: 7970378428044810787, guid: 41911503cea0a6e469ddd4730fa41a75, type: 3}
+  - {fileID: 3900068739842018829, guid: 7509b8e037fcf774d8b378e0d760c1e2, type: 3}
+  Book: {fileID: 2469951800267256851, guid: 142f25c1849a0c74aa1a96d4af961b18, type: 3}
+  maxHealth: 50
+  damageReduction: 0.27
+  damageMultiplier: 0.25
+  healingEffectiveness: 0
+  battlePrefab: {fileID: 6627696842206983800, guid: e652cd7300687604ba6dce04fdac0f70, type: 3}
+  specialSkill1: {fileID: 11400000, guid: 02b4bcf6a3aa99e4cb41aa7c68488c48, type: 2}
+  specialSkill2: {fileID: 11400000, guid: f4b4a6cb010ddbe4e92933100a1bd6c8, type: 2}
+  attackConfig:
+    characterName: ll
+    attackPosition: 1
+    attackRange: 1
+    targetTag: enemy
+  skill1Config: {fileID: 11400000, guid: 02b4bcf6a3aa99e4cb41aa7c68488c48, type: 2}
+  skill2Config: {fileID: 11400000, guid: f4b4a6cb010ddbe4e92933100a1bd6c8, type: 2}
+  SkillButtonPrefab1: {fileID: 2400613091829093571, guid: c58199fc3c5f9b94890b0d4d5b53b7c4, type: 3}
+  SkillButtonPrefab2: {fileID: 5245736406389128158, guid: 593ac8c0790541149b1b9d21b0cc8a13, type: 3}
+  speed: 5
+  heroStoryText: " Lapu-Lapu (c. 1491 \u2013 c. 1542) \n\n\"The First Defender of
+    Philippine Freedom\"\n\n  Overview: Datu Lapu-Lapu was the chieftain of Mactan
+    who defeated Portuguese explorer Ferdinand Magellan in 1521. He is regarded as
+    the first Filipino hero to resist foreign colonization. \n\nPre-Colonial Leadership
+    Born around 1491, Lapu-Lapu ruled Mactan Island in what is now Cebu. As a datu,
+    he governed an independent barangay that was part of a decentralized political
+    system common in the archipelago before colonization.\n\nArrival of the Spaniards
+    On April 27, 1521, Ferdinand Magellan landed in Cebu under orders from Spain
+    to convert native leaders to Christianity and subjugate the islands. Rajah Humabon
+    of Cebu converted and allied with Magellan. But Lapu-Lapu refused to surrender
+    sovereignty.  \u2694\uFE0F Battle of Mactan When Magellan attempted to coerce
+    Lapu-Lapu into submission, he and about 60 men attacked Mactan. Lapu-Lapu and
+    over a thousand warriors defended their island fiercely. Magellan was killed
+    in battle, marking the first documented defeat of European colonizers in Asia. 
+    \U0001F4DC Historical Uncertainty While exact details about Lapu-Lapu\u2019s
+    death are unknown, local legends claim he lived to old age and was never captured
+    by the Spaniards. Others say his body turned into stone and still guards Mactan\u2019s
+    shores.  \U0001F3DB\uFE0F Legacy Lapu-Lapu\u2019s courage is immortalized in
+    the Mactan Shrine and statues across the Philippines. "
+  heroStoryPrefab: {fileID: 6942010210912304198, guid: b26c23d75fbc71747b9f87a9d6d4fa29, type: 3}
+  purchasedItems: []
+  equippedItems: []
